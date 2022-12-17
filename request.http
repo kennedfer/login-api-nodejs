@@ -1,0 +1,13 @@
+POST http://localhost:3306/user/
+content-type: application/json
+
+{
+    "email":"kenisinsano@gmail.com",
+    "password": "kenisinsane"
+}
+
+###
+GET http://localhost:3306/all/
+
+###
+GET http://localhost:3306/user/f32dc5e9-cf76-4dce-b727-366aa3ae1198

@@ -1,0 +1,24 @@
+{
+  "name": "login-api-nodejs",
+  "version": "1.0.0",
+  "description": "simple login database api",
+  "main": "app.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kennedfer/login-API-nodejs.git"
+  },
+  "author": "kennedfer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kennedfer/login-API-nodejs/issues"
+  },
+  "homepage": "https://github.com/kennedfer/login-API-nodejs#readme",
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "fastify": "^4.10.2"
+  }
+}
